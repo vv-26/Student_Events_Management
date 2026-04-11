@@ -1,1 +1,1 @@
-# Student_Events_Managament
+# Student_Events_Management
