@@ -1,6 +1,6 @@
 package com.student.faculty.Service;
 
-import com.student.event.Model.EventModel;
+import com.student.faculty.Model.EventModel;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;

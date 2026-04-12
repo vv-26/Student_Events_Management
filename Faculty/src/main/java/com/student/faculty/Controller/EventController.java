@@ -1,6 +1,6 @@
 package com.student.faculty.Controller;
 
-import com.student.event.Model.EventModel;
+import com.student.faculty.Model.EventModel;
 import com.student.faculty.Service.EventService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
